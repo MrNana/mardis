@@ -7,6 +7,7 @@ $ apt install python2 git
 
 
 $  git clone https://github.com/MrNana/mardis.git
+
 $ cd mardis
 
 $ python2 -m pip install xdis==5.0.11
