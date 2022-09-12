@@ -2,11 +2,11 @@
 A great Marshal decompiler python2.7 
 
 
-#Installation 
+
 $ apt install python2 git
 
-$ git clone https://github.com/kapten-kaizo/mardis
 
+$  git clone https://github.com/MrNana/mardis.git
 $ cd mardis
 
 $ python2 -m pip install xdis==5.0.11
